@@ -1,1 +1,1 @@
-# DSCI478-Kaggle-Project
+# DSCI478 Kaggle Project - Credit Card Fraud Detection
